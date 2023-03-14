@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo \ "(Ôo)"
-=======
-echo "Hello, World" 
->>>>>>> 2c64790e0c50d4ce50d349bafa10342c746db885
+echo "Hello, World"
